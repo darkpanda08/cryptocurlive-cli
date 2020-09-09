@@ -1,0 +1,27 @@
+{
+  "name": "cryptocurlive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/cryptocurlive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkpanda08/cryptocurlive-cli.git"
+  },
+  "author": "darkpanda08",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkpanda08/cryptocurlive-cli/issues"
+  },
+  "homepage": "https://github.com/darkpanda08/cryptocurlive-cli#readme",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "colors": "^1.4.0",
+    "commander": "^6.1.0",
+    "configstore": "^5.0.1",
+    "inquirer": "^7.3.3"
+  }
+}
