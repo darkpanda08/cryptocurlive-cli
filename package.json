@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/darkpanda08/cryptocurlive-cli#readme",
   "dependencies": {
-    "axios": "^0.20.0",
+    "axios": "^0.21.1",
     "check-internet-connected": "^2.0.5",
     "colors": "^1.4.0",
     "commander": "^6.1.0",
